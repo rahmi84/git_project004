@@ -17,6 +17,10 @@ public class Trial {
 		 System.out.println("2+2=4");
 		 int x =25;
 		 String name = "fenerbahce";
+		int x =35;
+		String name = "galatsaray";
+		
+		
 
 
 	}
