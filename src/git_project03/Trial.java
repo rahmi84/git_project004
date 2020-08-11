@@ -15,6 +15,12 @@ public class Trial {
 		 System.out.println("2. from rahmi after problem");
 		 System.out.println("hope to go on correctly");
 		 System.out.println("2+2=4");
+		 int x =25;
+		 String name = "fenerbahce";
+		int y =35;
+		String ezik = "galatsaray";
+		
+		
 
 
 	}
