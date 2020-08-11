@@ -19,6 +19,7 @@ public class Trial {
 		 String name = "fenerbahce";
 		int y =35;
 		String ezik = "galatsaray";
+		System.out.println("evrything happens for a reason");
 		
 		
 
